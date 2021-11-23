@@ -6,7 +6,7 @@ You will be recreating a piece of [this site](https://try.imperfectfoods.com/ove
 
 Your goal is to recreate that section of the site using HTML and CSS. We suggest that you begin by building out one layout (it doesn't matter which you choose), and then make it responsive to the other screen sizes. The goal here is to practice with responsive layouts, so don't get too caught up in the other details. For example, you can ignore the lighter teal brush strokes in the background. Fonts and colors are in the CSS file for you.  
 
-Here are some screenshots to help you:
+## Here are some screenshots to help you:
 
 ### Desktop
 #### Rendered Image:
@@ -26,3 +26,7 @@ Here are some screenshots to help you:
 #### Screenshot:
 ![mobile](https://user-images.githubusercontent.com/51416773/142955248-aae790d1-453e-4af6-896e-8073b1e0f37b.png)
 
+## Set Up Instructions
+1. Fork and clone this repo
+2. `cd` into the directory
+3. Run `open index.html` to view your app in the browser
