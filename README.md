@@ -7,7 +7,7 @@ You will be recreating a piece of [this site](https://try.imperfectfoods.com/ove
 Your goal is to recreate that section of the site using HTML and CSS. We suggest that you begin by building out one layout (it doesn't matter which you choose), and then make it responsive to the other screen sizes. Here are some screenshots to help you:
 
 ### Desktop
-![desktop-mock](https://user-images.githubusercontent.com/51416773/143068715-409ae7ba-b240-404c-b639-8df69218f997.jpeg)
+![desktop-mock](https://user-images.githubusercontent.com/51416773/143068884-c172fa6c-e6e5-4c5b-b9aa-b1a416c0c4cf.jpeg)
 ![desktop](https://user-images.githubusercontent.com/51416773/142955257-7a54498c-c349-41b9-9f22-686aed19e067.png)
 
 ### Tablet
