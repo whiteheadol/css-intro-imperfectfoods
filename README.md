@@ -11,7 +11,7 @@ Your goal is to recreate that section of the site using HTML and CSS. We suggest
 ![desktop](https://user-images.githubusercontent.com/51416773/142955257-7a54498c-c349-41b9-9f22-686aed19e067.png)
 
 ### Tablet
-![tablet-mock](https://user-images.githubusercontent.com/51416773/143068658-119a0461-cc85-4e8d-a893-f0275e29948e.jpeg)
+![tablet-mock](https://user-images.githubusercontent.com/51416773/143068974-04d718ec-bcf0-4f88-8657-170b90e70bc4.jpeg)
 ![tablet](https://user-images.githubusercontent.com/51416773/142955245-70e9da78-2089-43bc-a582-5f1a5e086bdc.png)
 
 ### Mobile
