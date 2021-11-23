@@ -2,7 +2,7 @@
 
 ## Imperfect Foods Comp Recreation
 
-You will be recreating a piece of [this site](https://try.imperfectfoods.com/overview). Scroll down to the section titled "How to Shop Imperfect Foods." Play around with the screensize and pay attention to ohow the layout changes as the screen size changes.  
+You will be recreating a piece of [this site](https://try.imperfectfoods.com/overview). Scroll down to the section titled "How to Shop Imperfect Foods." Play around with the screensize and pay attention to how the layout changes as the screen size changes.  
 
 Your goal is to recreate that section of the site using HTML and CSS. We suggest that you begin by building out one layout (it doesn't matter which you choose), and then make it responsive to the other screen sizes. The goal here is to practice with responsive layouts, so don't get too caught up in the other details. For example, you can ignore the lighter teal brush strokes in the background. Fonts and colors are in the CSS file for you.  
 
