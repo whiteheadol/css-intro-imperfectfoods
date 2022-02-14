@@ -1,4 +1,4 @@
-# Responsive Layouts Practice
+# Intro to CSS Practice
 
 ## Imperfect Foods Comp Recreation
 
