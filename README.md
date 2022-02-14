@@ -23,6 +23,7 @@ You will be recreating a piece of [this site](https://try.imperfectfoods.com/ove
 - Make the colors match the comp
 - Make the image sizes match the comp
 - Style the button to match the comp
+- Do not worry about the layout (where elements are on the page) yet! We'll get to that after your Flexbox lesson.
 
 ### Iteration 2 (after `CSS: Flexbox` lesson):
 - Use flexbox to make the layout match the comp (hint: you may need to add container elements to your HTML to group the `img`, `h2`, and `p` elements)
