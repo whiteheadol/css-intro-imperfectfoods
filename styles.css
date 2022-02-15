@@ -6,3 +6,59 @@
 /* text color -> #453D3D */
 /* button color -> #B32274 */
 /* button text color -> white */
+
+.main-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  width: 350px;
+  height: 300px;
+  padding: 20px;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+body {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #453D3D;
+  background-color: #B4E4E6;
+  text-align: center;
+  /* margin-bottom: 20px; */
+}
+
+.title {
+  padding-top: 50px;
+  font-size: 2.8rem;
+}
+
+body > h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.2rem;
+  letter-spacing: 0.05em;
+  line-height: 150%;
+}
+
+.button {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  background-color: #B32274;
+  color: white;
+  font-size: 1.5rem;
+  border-radius: 0.625rem;
+  padding: 0.75rem 3.5rem;
+  border: none;
+}
+
+.image {
+  height: 140px;
+  max-width: 140px;
+}
